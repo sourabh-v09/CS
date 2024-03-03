@@ -1,2 +1,0 @@
-# CS
-CSS PROJECTS
